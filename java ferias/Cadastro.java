@@ -1,5 +1,7 @@
 import javax.swing.JOptionPane;
 import java.util.HashMap;
+import javax.swing.JFrame;
+
 
 public class Cadastro {
      //atributos
@@ -13,7 +15,7 @@ public class Cadastro {
     
 
            static void setNome(){
-           nomeCompleto=JOptionPane.showInputDialog(null, "CADASTRO YourFarma\nPara finalizar a compra insira seus dados\n"+"digite seu nome completo");
+           nomeCompleto=JOptionPane.showInputDialog(null, "CADASTRO YourFarma\n\n"+"digite seu nome completo");
            }
            static String getNome(){
            return nomeCompleto;
@@ -70,6 +72,7 @@ public class Cadastro {
            
                 
     }
+
 
 
    
