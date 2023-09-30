@@ -1,7 +1,6 @@
 low code
   software para dessenvolvimentos graficos.
   
-https://prod.liveshare.vsengsaas.visualstudio.com/join?9F85D6A669DC23F611D749902E98A9143498
-
+https://prod.liveshare.vsengsaas.visualstudio.com/join?3886F53792FD85D78D264A427EF4466CFDC1
 
 
