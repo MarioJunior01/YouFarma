@@ -1,4 +1,4 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?0537815391865681398EDE11681A61BFFE08
+https://prod.liveshare.vsengsaas.visualstudio.com/join?20DAEA1A5BDE449738A9BA7F59C4C5A0296E
 
 * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
